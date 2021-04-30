@@ -1,0 +1,62 @@
+body
+{
+    font-family: 'special Elite' , Fira code;
+    background: #d1f0ea;
+}
+.header_div
+{
+    background:#d1f0ea;
+    color: #18d6b6;
+}
+.header_div img
+{
+    width: 100px;
+}
+.main_div
+{
+    background:#d1f0ea;
+    
+}
+.main_div label
+{
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+}
+#camera , #result
+{
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px white;
+}
+.main_div button
+{
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 5px white;
+    border: 1px solid;
+}
+.footer_div
+{
+    margin-bottom: 50px;
+}
+.footer_div h4
+{
+    background: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 5px white;
+}
+.footer_div img
+{
+    width: 70px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+}
